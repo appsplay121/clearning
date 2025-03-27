@@ -1,3 +1,4 @@
 # Ignore compiled files and executables
 *.o
 *.out
+build/
